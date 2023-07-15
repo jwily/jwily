@@ -7,7 +7,6 @@ Sure, I'm not yet one of those YouTubeTikTokInstagram hyperpolyglot sensations (
 I used to teach kids to write in the active voice and keep their comma-separated lists parallel. Now, I've been taught and continue to learn to write DRY and keep my APIs RESTful.
 
 The comma-separated lists are still there, funnily enough.
-
 <!--
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwily&show_icons=true)
 
