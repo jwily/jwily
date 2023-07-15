@@ -8,9 +8,9 @@ I used to teach kids to write in the active voice and keep their comma-separated
 
 The comma-separated lists are still there, funnily enough.
 
+<!--
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwily&show_icons=true)
 
-<!--
 **jwily/jwily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
