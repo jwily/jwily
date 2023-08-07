@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-Ever since I changed the language setting on my phone to Spanish 5 years ago, I've dreamt of one day mastering as many of the world's languages as I can in this life that I have. I didn't know then that these aspirations would soon grow beyond love of the natural languages into a passion for languages formal and artificial.
+Ever since I changed the language setting on my phone to Spanish 6 years ago, I've dreamt of one day mastering as many of the world's languages as I can in this life that I have. I didn't know then that these aspirations would soon grow beyond love of the natural languages into a passion for languages formal and artificial.
 
 Sure, I'm not yet one of those YouTubeTikTokInstagram hyperpolyglot sensations (took my time with Spanish — and it paid off), but I can say now that, just as I might place images and ideas in the mind of another through my mother and father tongues, so too can I make concrete in virtual space ideas and experiences with JavaScript and Python.
 
