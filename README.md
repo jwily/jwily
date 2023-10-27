@@ -1,9 +1,11 @@
 <!-- ### Hi there 👋 -->
-Hi there! My name is John, and I'm a full stack developer. My fascination finds its home at the intersection of complex systems and human minds, from language acquisition to tabletop board games to how we have begun to think about and make use of AI in our daily lives.
+Hi there! My name is John, and I'm a full stack developer. My fascination finds its home at the intersection of complex systems and human minds, from language acquisition to tabletop board games to how we have begun to think about and make use of AI in our daily lives. 🔮
 
-Ever since I changed the language setting on my phone to Spanish 6 years ago, I've dreamt of one day mastering as many of the world's languages as I can in this life that I have. I didn't know then that these aspirations would soon grow beyond love of the natural languages into a passion for languages formal and artificial.
+Ever since I changed the language setting on my phone to Spanish 6 years ago, I've dreamt of one day mastering as many of the world's languages as I can in this life that I have. I didn't know then that these aspirations would soon grow beyond love of the natural languages into a passion for languages formal and artificial. 🌎
 
 Now, with 2+ years of development experience under my belt, just as I might place images and ideas in the mind of another through my mother and father tongues, so too can I make concrete in virtual space ideas and experiences with JavaScript and Python.
+
+Ask me about the fantasy worlds I'm building in my Dungeons & Dragons campaigns! 🐉
 <!--
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwily&show_icons=true)
 
