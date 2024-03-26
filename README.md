@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
-Hi there! My name is John, and I'm a full stack developer. My fascination finds its home at the intersection of complex systems and human minds, from language acquisition to tabletop board games to how we have begun to think about and make use of AI in our daily lives. 🔮
+Full-stack developer proficient in Python and JavaScript.
 
-Ever since I changed the language setting on my phone to Spanish 7 years ago, I've dreamt of one day mastering as many of the world's languages as I can in this life that I have. I didn't know then that these aspirations would soon grow beyond love of the natural languages into a passion for languages formal and artificial. 🌎
+Writing code like someone's always about to pop over my shoulder and ask, "What's that?" If it's hard to follow, maybe it's worth re-writing.
 
-Now, with 2+ years of development experience in hand, just as I might place images and ideas in the mind of another through my mother and father tongues, so too can I make concrete in virtual space ideas and experiences with JavaScript and Python.
+A teacher at heart 🧙 eager to learn so that I might share it with others. Currently building with React, Flask, and PostgreSQL.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
