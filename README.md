@@ -3,7 +3,7 @@ Full-stack developer proficient in Python and JavaScript. Currently building wit
 
 Writing code like someone's always about to pop over my shoulder and ask, "What's that?"
 
-A teacher at heart 🧙 eager to learn so that I might share it with others. I've honed the subtle art of debugging by the fires of a thousand student questions; every bug I take down makes my inner child sing with triumph. Working as a coding instructor has given me a taste for code that reads as well as it performs, and I find continual joy in the reality that the "languages" part of coding languages is not just a metaphor.
+A teacher at heart eager to learn so that I might share it with others. I've honed the subtle art of debugging by the fires of a thousand student questions; every bug I take down makes my inner child sing with triumph. Working as a coding instructor has given me a taste for code that reads as well as it performs, and I find continual joy in the reality that the "languages" part of coding languages is not just a metaphor.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
