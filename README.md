@@ -1,9 +1,7 @@
 <!-- ### Hi there 👋 -->
-Full-stack developer proficient in Python and JavaScript.
+Full-stack developer proficient in Python and JavaScript. Currently building with React, Flask, and PostgreSQL.
 
-Writing code like someone's always about to pop over my shoulder and ask, "What's that?" If it's hard to follow, maybe it's worth re-writing.
-
-A teacher at heart 🧙 eager to learn so that I might share it with others. Currently building with React, Flask, and PostgreSQL.
+Writing code like someone's always about to pop over my shoulder and ask, "What's that?" A teacher at heart 🧙 eager to learn so that I might share it with others.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
